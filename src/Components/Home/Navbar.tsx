@@ -5,11 +5,11 @@ import {
   SheetDescription,
   SheetHeader,
   SheetTrigger,
-} from "@/components/ui/sheet";
+} from "../ui/sheet";
 import AuthBtn from "./AuthBtn";
 import LogoHeader from "./LogoHeader";
 
-const handleScroll = (id) => {
+const handleScroll = (id: string) => {
   const section = document.getElementById(id);
   if (section) {
     section.scrollIntoView({ behavior: "smooth" });

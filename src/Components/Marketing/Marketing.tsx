@@ -1,4 +1,3 @@
-import React from "react";
 import img1 from "./Images/image 18.png";
 import img2 from "./Images/image 19.png";
 import img3 from "./Images/image 20.png";
@@ -7,7 +6,7 @@ import {
   HoverCard,
   HoverCardContent,
   HoverCardTrigger,
-} from "@/components/ui/hover-card";
+} from "../ui/hover-card";
 
 const marketingimg = [img1, img2, img3];
 

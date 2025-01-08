@@ -1,4 +1,3 @@
-import React from "react";
 import { FaFacebook } from "react-icons/fa";
 import { FaGoogle } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";

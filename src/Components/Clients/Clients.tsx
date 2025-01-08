@@ -4,11 +4,7 @@ import logo3 from "./Images/Logo (3).png";
 import logo4 from "./Images/Logo (4).png";
 import logo5 from "./Images/Logo (5).png";
 import logo6 from "./Images/Logo (6).png";
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-} from "@/components/ui/carousel";
+import { Carousel, CarouselContent, CarouselItem } from "../ui/carousel";
 import Autoplay from "embla-carousel-autoplay";
 
 const logo = [logo1, logo2, logo3, logo4, logo5, logo6];

@@ -2,7 +2,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaTelegram } from "react-icons/fa6";
 import { FaYoutube } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
-import { Input } from "@/components/ui/input";
+import { Input } from "../ui/input";
 import { FiSend } from "react-icons/fi";
 
 const navlinks = [
